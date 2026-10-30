@@ -1,0 +1,1 @@
+make me a retro bowl clone style game with real teams and players, and kickoffs, and defense, and look clean, prioritize play experience and fun
